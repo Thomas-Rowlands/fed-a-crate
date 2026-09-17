@@ -46,6 +46,12 @@ James Mitchell-White:
     orcid: 0000-0003-2818-8538
     role: TRE deployment
     affiliation: The University of Nottingham / ELIXIR-UK
+Thomas Rowlands:
+    git: thomas-rowlands
+    email: thomas.rowlands@nottingham.ac.uk
+    orcid: 0000-0002-7912-4203
+    role: TRE deployment
+    affiliation: The University of Nottingham / ELIXIR-UK
 Griet De Clercq:
    git: grietdeclercq
    email: griet.declercq@vib.be
